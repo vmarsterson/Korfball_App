@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652772409553",
+    "firebase_url": "https://korfball-cdb58.firebaseio.com",
+    "project_id": "korfball-cdb58",
+    "storage_bucket": "korfball-cdb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652772409553:android:26754651c60d60980145f0",
+        "android_client_info": {
+          "package_name": "com.example.vm_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652772409553-ivd951p0tktjf4nvidf7pfe46ui5e9ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5hj3dFIR6M1xQm0BBuJofRPrdPP5QNwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652772409553-ivd951p0tktjf4nvidf7pfe46ui5e9ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
