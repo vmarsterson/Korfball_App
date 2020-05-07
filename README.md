@@ -19,4 +19,5 @@ To run, open in Android Studio Code, and build and run as usual
 The app includes technologies such as:
 
 + Kotlin 
-+ 
++ Firebase
++ Java
