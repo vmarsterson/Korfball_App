@@ -13,6 +13,7 @@ This app is a still a work in progress and therefore does not at all reflect the
 ## Getting started
 
 1. You can clone the git repository project to your local machine: 
+
 `git@github.com:vmarsterson/Korfball_App.git` 
 
 2. Build and run on Android Studios as usual
