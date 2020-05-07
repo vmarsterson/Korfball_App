@@ -16,7 +16,7 @@ This app is a still a work in progress and therefore does not at all reflect the
 
 `git@github.com:vmarsterson/Korfball_App.git` 
 
-2. Build and run on Android Studios as usual
+2. Build and run on Android Studio as usual
 
 ## Technologies
 
